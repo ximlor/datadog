@@ -1,0 +1,1 @@
+{'url': 'https://mainsite-restapi.ele.me/shopping/restaurants?terminal=web&extras%5B%5D=activities&geohash=yb4h5z1k8zs&limit=24&offset=0', 'status': 400, 'method': 'GET', 'timestamp': 1492762778.180656, 'response_url': 'https://mainsite-restapi.ele.me/shopping/restaurants?terminal=web&extras%5B%5D=activities&geohash=yb4h5z1k8zs&limit=24&offset=0'}
