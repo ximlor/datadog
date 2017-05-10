@@ -12,7 +12,8 @@
 */
 
 $app->get('/', function () use ($app) {
-    return $app->version();
+//    return $app->version();
+    return view();
 });
 
 $app->group(['prefix' => 'restaurant',], function () use ($app) {
